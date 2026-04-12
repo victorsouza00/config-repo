@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c2ad69-175d-4940-8a7a-ba43da76b697" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/edge-service-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service.yml" afterDir="false" />
-    </list>
+    <list default="true" id="88c2ad69-175d-4940-8a7a-ba43da76b697" name="Changes" comment="Adicionando arquivos dos outros services" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/victorsouza00/config-repo.git",
+    "accountId": "decbd930-42dc-4f70-a4c9-976c36d428b1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -38,6 +36,11 @@
     "last_opened_file_path": "C:/Users/victo/Documents/IdeaProjects/config-repo"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\Documents\IdeaProjects\config-repo" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="config-repo" />
@@ -66,9 +69,22 @@
       <option name="presentableId" value="Default" />
       <updated>1772134088551</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionando arquivos dos outros services">
+      <option name="closed" value="true" />
+      <created>1776025074924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776025074924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando arquivos dos outros services" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando arquivos dos outros services" />
   </component>
 </project>
